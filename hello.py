@@ -1,2 +1,2 @@
-msg = "My name is T"
+msg = "My name is Tareerat"
 print(msg)
